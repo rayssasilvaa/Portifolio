@@ -5,6 +5,7 @@ import {
   DiNodejsSmall,
   DiReact,
   DiSass,
+  RiTailwindCssFill 
 } from 'react-icons/di'
 
 import '../styles/components/techs.sass'
@@ -16,6 +17,7 @@ const technologies = [
   { id: "node", name: "Node.js", icon: <DiNodejsSmall /> },
   { id: "react", name: "React", icon: <DiReact /> },
   { id: "sass", name: "Sass", icon: <DiSass  /> },
+  { id: "tailwind", name: "Tailwind CSS", icon: <RiTailwindCssFill /> }
 ]
 
 const TechContainer = () => {

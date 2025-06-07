@@ -1,4 +1,4 @@
-import Avatar from '../img/image.jpeg'
+import Avatar from '/img/image.webp'
 import '../styles/components/sidebar.sass'
 import InforContainer from './InforContainer'
 import SocialNetworks from './SocialNetworks'
